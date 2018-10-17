@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10146" started-at="2018-10-17T14:13:43Z" finished-at="2018-10-17T14:13:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10146" started-at="2018-10-17T14:13:43Z" finished-at="2018-10-17T14:13:53Z">
+      <class name="seleniumConcepts.BarCodeTest">
+        <test-method status="PASS" signature="barCodeTest()[pri:0, instance:seleniumConcepts.BarCodeTest@6b9651f3]" name="barCodeTest" duration-ms="10123" started-at="2018-10-17T14:13:43Z" finished-at="2018-10-17T14:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- barCodeTest -->
+      </class> <!-- seleniumConcepts.BarCodeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
